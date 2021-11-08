@@ -2,8 +2,8 @@
 Introduction to Clojure 
 
 Suggested programs for Clojure:
-Visual studio Code and Nigthcode
-Java and Leiningen needs to be installed.
+Visual studio Code. With the extention 'Calva' for REPL. 
+(Java and Leiningen needs to be installed).
 
 Visual studio Code can be used to write and manage files. It can also pull and push files to a github repository.
 Nightcode can be used to run the code line-by-line. 
